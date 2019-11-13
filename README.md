@@ -12,11 +12,11 @@ Right now, once they are moved to the `published` folder, they are automatically
 
 1. Hello World
 
-    a. [English][backglog\hello-world_en.md]
+    a. [English](backlog/hello-world_en.md)
     
-    b. [Español][backglog\hello-world_es.md]
+    b. [Español](backlog/hello-world_es.md)
     
-    c. [Português][backglog\hello-world_pt-br.md]
+    c. [Português](backlog/hello-world_pt-br.md)
 
 ## Ideas
 
